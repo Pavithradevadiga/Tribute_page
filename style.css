@@ -1,0 +1,55 @@
+
+.text-centre{
+  text-align: center;
+  color: blue;
+}
+.ul{
+  font-size: 15px;
+  text-decoration: underline;
+  text-align: center;
+}
+.center{
+  margin-left: 250px;
+  margin-right: 100px; 
+}
+.h2{
+  padding-bottom: 50px;
+  font-size: 20px;
+  color: red;
+}
+.h1{
+  font-size: 40px;
+  color: blue;
+}
+.img{
+  border: 2px solid white;
+  width : 80%;
+  height :500px;
+  padding: 15px;
+  margin-left:110px;
+}
+
+
+.black{
+  color: black;
+}
+.container{
+  text-align: center;
+  position : relative;
+  font-size : 18px;
+}
+.black{
+  color: black;
+  font-size: 20px;
+}
+.div{
+  text-align: center;
+}
+.orange{
+  color: orange;
+  text-align: center;
+}
+body{
+  background-color: grey;
+  color: white;
+}
